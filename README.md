@@ -10,3 +10,5 @@ https://ideausher.com/blog/how-to-build-a-beer-app/
 
 ## architecture
 
+## Inspiration - best 
+https://www.justinmac.com/heads-up
